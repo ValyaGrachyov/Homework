@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Metalfactory\bin\Debug\net7.0\Metalfactory.exe
+C:\Users\User\Desktop\Metalfactory\bin\Debug\net7.0\Metalfactory.deps.json
+C:\Users\User\Desktop\Metalfactory\bin\Debug\net7.0\Metalfactory.runtimeconfig.json
+C:\Users\User\Desktop\Metalfactory\bin\Debug\net7.0\Metalfactory.dll
+C:\Users\User\Desktop\Metalfactory\bin\Debug\net7.0\Metalfactory.pdb
+C:\Users\User\Desktop\Metalfactory\obj\Debug\net7.0\Metalfactory.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Metalfactory\obj\Debug\net7.0\Metalfactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Metalfactory\obj\Debug\net7.0\Metalfactory.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Metalfactory\obj\Debug\net7.0\Metalfactory.AssemblyInfo.cs
+C:\Users\User\Desktop\Metalfactory\obj\Debug\net7.0\Metalfactory.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Metalfactory\obj\Debug\net7.0\Metalfactory.dll
+C:\Users\User\Desktop\Metalfactory\obj\Debug\net7.0\refint\Metalfactory.dll
+C:\Users\User\Desktop\Metalfactory\obj\Debug\net7.0\Metalfactory.pdb
+C:\Users\User\Desktop\Metalfactory\obj\Debug\net7.0\Metalfactory.genruntimeconfig.cache
+C:\Users\User\Desktop\Metalfactory\obj\Debug\net7.0\ref\Metalfactory.dll

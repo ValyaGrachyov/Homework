@@ -1,0 +1,69 @@
+﻿@using MyPortfolio.Areas.Admin.ViewModels.SkillVms;
+@using Persistence.Services.LanguageService;
+@inject LanguageService _localization
+@model IEnumerable<SkillVm>;
+
+
+<div >    
+    <a href="https://localhost:7214/admin/skill/changelanguage?culture=en-GB">
+         English
+    </a>
+    <a href="https://localhost:7214/admin/skill/changelanguage?culture=ru-RU">
+            Russian
+    </a>
+</div>
+
+
+<p>@_localization.Getkey("str_welcome_message")</p>
+<p>@_localization.Getkey("KFU")</p>
+<table>
+    <tr>
+        <th>@_localization.Getkey("Id")</th>
+        <th>@_localization.Getkey("Name")</th>
+        <th>@_localization.Getkey("Score")</th>
+    </tr>
+    @{
+        @foreach (var x in Model) 
+        {
+            <tr>
+                <td>@_localization.Getkey($"{x.Id}")</td>
+                <td>@_localization.Getkey($"{x.Name}")</td>
+                <td>@_localization.Getkey($"{x.Score}")</td>
+                <td>
+                    <a href="https://localhost:7214/admin/skill/edit?id=@x.Id">
+                        <button>
+                            @_localization.Getkey("Edit")
+                        </button>
+                    </a>
+                </td>
+                <td>
+                    <a href="https://localhost:7214/admin/skill/delete?id=@x.Id">
+                        <button>
+                            @_localization.Getkey("Delete")
+                        </button>
+                    </a>
+                </td>
+            </tr>
+        }
+    }
+</table>
+
+<div>
+    <form method="post">
+        <div>
+            @_localization.Getkey("Name");
+            @Html.EditorFor(model => model.FirstOrDefault().Name)
+            @Html.ValidationMessageFor(model =>model.First().Name, _localization.Getkey("ErrorName"))
+        </div>
+
+        <div>
+            @_localization.Getkey("Score")
+            @Html.EditorFor(model => model.First().Score)
+            @Html.ValidationMessageFor(model =>model.First().Score, _localization.Getkey("ErrorScore"))
+        </div>
+
+        <div>
+            <button type="submit">@_localization.Getkey("Add")</button>
+        </div>
+    </form>
+</div>

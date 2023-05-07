@@ -1,0 +1,25 @@
+﻿@using MyPortfolio.Areas.Admin.ViewModels.SkillVms;
+@model EditSkillVm
+@using Persistence.Services.LanguageService;
+@inject LanguageService _localization
+
+
+<div>
+    <form method="post">
+        <div>
+            @_localization.Getkey("Name")
+            @Html.EditorFor(model => model.Name)
+            @Html.ValidationMessageFor(model =>model.Name)
+        </div>
+
+        <div>
+            @_localization.Getkey("Score")
+            @Html.EditorFor(model => model.Score)
+            @Html.ValidationMessageFor(model =>model.Score)
+        </div>
+
+        <div>
+            <button type="submit">@_localization.Getkey("Commit")</button>
+        </div>
+    </form>
+</div>

@@ -1,0 +1,89 @@
+﻿@using MyPortfolio.Areas.Admin.ViewModels.ExperienceVms;
+@using Persistence.Services.LanguageService;
+@inject LanguageService _localization
+@model IEnumerable<ExperienceVM>;
+
+
+<div>
+    <a href="https://localhost:7214/admin/experience/changelanguage?culture=en-GB">
+        English
+    </a>
+    <a href="https://localhost:7214/admin/experience/changelanguage?culture=ru-RU">
+        Russian
+    </a>
+</div>
+
+<table>
+    <tr>
+        <th>@_localization.Getkey("Id")</th>
+        <th>@_localization.Getkey("Specialization") </th>
+        <th>@_localization.Getkey("Description")</th>
+        <th>@_localization.Getkey("StartDate")</th>
+        <th>@_localization.Getkey("EndDate")</th>
+    </tr>
+    @{
+        @foreach (var x in Model)
+        {
+            <tr>
+                <td>@_localization.Getkey($"{@x.Id}") </td>
+                <td>@_localization.Getkey($"{@x.Specialization}")</td>
+                <td>@_localization.Getkey($"{@x.Description}")</td>
+                <td>@_localization.Getkey($"{@x.StartDate}")</td>
+                <td>@_localization.Getkey($"{@x.EndDate}")</td>
+                <td>@_localization.Getkey($"{x.OrganizationName}")</td>
+                <td>
+                    <a href="https://localhost:7214/admin/experience/edit?id=@x.Id">
+                        <button>
+                            @_localization.Getkey("Edit")
+                        </button>
+                    </a>
+                </td>
+                <td>
+                    <a href="https://localhost:7214/admin/experience/delete?id=@x.Id">
+                        <button>
+                            @_localization.Getkey("Delete")
+                        </button>
+                    </a>
+                </td>
+            </tr>
+        }
+    }
+</table>
+
+<div>
+    <form method="post">
+        <div>
+            @Html.LabelFor(model => model.First().Specialization)
+            @Html.EditorFor(model => model.First().Specialization)
+            @Html.ValidationMessageFor(model =>model.First().Specialization,"Пу-пу")
+        </div>
+
+        <div>
+            @Html.LabelFor(model => model.First().Description)
+            @Html.EditorFor(model => model.First().Description)
+            @Html.ValidationMessageFor(model =>model.First().Description, "Слишком длинное описание")
+        </div>
+
+        <div>
+            @Html.LabelFor(model => model.First().StartDate)
+            @Html.EditorFor(model => model.First().StartDate)
+            @Html.ValidationMessageFor(model =>model.First().StartDate, "Неверная дата")
+        </div>
+
+        <div>
+            @Html.LabelFor(model => model.First().EndDate)
+            @Html.EditorFor(model => model.First().EndDate)
+            @Html.ValidationMessageFor(model =>model.First().EndDate,"Неверная дата")
+        </div>
+
+        <div>
+            @Html.LabelFor(model => model.First().OrganizationName)
+            @Html.EditorFor(model => model.First().OrganizationName)
+            @Html.ValidationMessageFor(model =>model.First().OrganizationName, "Неверное имя организации")
+        </div>
+
+        <div>
+            <button type="submit">@_localization.Getkey("Add")</button>
+        </div>
+    </form>
+</div>

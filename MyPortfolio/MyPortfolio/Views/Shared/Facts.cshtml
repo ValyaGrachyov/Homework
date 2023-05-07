@@ -1,0 +1,25 @@
+﻿@model List<FactVM>
+
+<section id="facts" class="facts">
+  <div class="container">
+    <div class="section-title">
+      <h2>Facts</h2>
+      <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+    </div>
+    <div class="row no-gutters">
+      @{
+        var classes = new string[] { "bi bi-emoji-smile", "bi bi-journal-richtext", "bi bi-headset", "bi bi-people" };
+      }
+      @for (var i = 0; i < Model.Count; i++)
+      {
+        <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="@(i * 100)">
+          <div class="count-box">
+            <i class="@classes[i]"></i>
+            <span data-purecounter-start="0" data-purecounter-end="@Model[i].Count" data-purecounter-duration="1" class="purecounter"></span>
+            <p><strong>@Model[i].Name</strong> @Model[i].Description</p>
+          </div>
+        </div>
+      }
+    </div>
+  </div>
+</section>

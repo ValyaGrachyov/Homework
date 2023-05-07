@@ -1,0 +1,66 @@
+C:\Users\User\Desktop\Dogs.WebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\Desktop\Dogs.WebAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\User\Desktop\Dogs.WebAPI\bin\Debug\net7.0\Dogs.WebAPI.exe
+C:\Users\User\Desktop\Dogs.WebAPI\bin\Debug\net7.0\Dogs.WebAPI.deps.json
+C:\Users\User\Desktop\Dogs.WebAPI\bin\Debug\net7.0\Dogs.WebAPI.runtimeconfig.json
+C:\Users\User\Desktop\Dogs.WebAPI\bin\Debug\net7.0\Dogs.WebAPI.dll
+C:\Users\User\Desktop\Dogs.WebAPI\bin\Debug\net7.0\Dogs.WebAPI.pdb
+C:\Users\User\Desktop\Dogs.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Desktop\Dogs.WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Dogs.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Dogs.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Dogs.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.AssemblyInfo.cs
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.Dogs.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.Dogs.WebAPI.props
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Dogs.WebAPI.props
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Dogs.WebAPI.props
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\scopedcss\bundle\Dogs.WebAPI.styles.css
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.csproj.CopyComplete
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.dll
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\refint\Dogs.WebAPI.dll
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.pdb
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.genruntimeconfig.cache
+C:\Users\User\Desktop\Dogs.WebAPI\obj\Debug\net7.0\ref\Dogs.WebAPI.dll
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\bin\Debug\net7.0\Dogs.WebAPI.exe
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\bin\Debug\net7.0\Dogs.WebAPI.deps.json
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\bin\Debug\net7.0\Dogs.WebAPI.runtimeconfig.json
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\bin\Debug\net7.0\Dogs.WebAPI.dll
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\bin\Debug\net7.0\Dogs.WebAPI.pdb
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.Dogs.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.Dogs.WebAPI.props
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Dogs.WebAPI.props
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Dogs.WebAPI.props
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\scopedcss\bundle\Dogs.WebAPI.styles.css
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.csproj.CopyComplete
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.dll
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\refint\Dogs.WebAPI.dll
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.pdb
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\Dogs.WebAPI.genruntimeconfig.cache
+C:\Users\User\Desktop\Новая папка\2Course_Hw_Proga\2semester\1-2Hw\Dogs.WebAPI\obj\Debug\net7.0\ref\Dogs.WebAPI.dll
